@@ -1,7 +1,7 @@
 # BELL
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[link to love Deploy](lol)
+[link to live Deploy](lol)
 
 # BELL workout buddy
 
